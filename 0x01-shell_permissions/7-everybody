@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a+x hello
+mv /tmp/betty /tmp/my_frist_task
